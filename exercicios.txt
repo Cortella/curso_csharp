@@ -1,0 +1,72 @@
+//Sequencial
+
+1 - Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor. 
+
+2 -  Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), calcular e escrever a
+área do retângulo.
+
+Obs: area = base * altura
+
+3 - Faça um Programa que converta metros para centímetros.
+
+4 - Faça um Programa que peça a temperatura em graus Farenheit , transforme e mostre em graus Celsius .
+	
+	C = (5 * (F-32) / 9).
+
+
+// IFF
+5 - Faça um Programa que peça dois números e imprima o maior deles.
+
+6 - Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:
+
+A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
+A mensagem "Reprovado", se a média for menor do que sete;
+A mensagem "Aprovado com Distinção", se a média for igual a dez.
+
+Obs: Use && como operador AND. (Retorna True caso as duas sentanças sejam verdadeiras e False se pelo menos uma for falsa).
+
+7 - Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino.
+
+8 - Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
+
+9 - Faça um Programa que leia três números e mostre-os em ordem crescente (Nao precisa mostrar nada se pelo menos um deles forem iguais) (Dificil) .
+
+10 - Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
+
+
+//Repeticao
+
+
+11 - faça um programa que conte de 1 a 20.
+Imprimindo
+
+1
+2
+3
+4
+5
+6
+7
+.
+.
+.
+19
+20
+
+12 - Faça um programa que leia 5 números e informe o maior número.
+
+13 - Escreva um programa que mostre a tabuada do numero digitado.
+
+Ex: caso o usuario digite 5 seu programa deverá imprimir:
+
+5 X 0 = 0
+5 X 1 = 5
+5 X 2 = 10
+5 X 3 = 15
+5 X 4 = 20
+5 X 5 = 25
+5 X 6 = 30
+5 X 7 = 35
+5 X 8 = 40
+5 X 9 = 45
+5 X 10 = 50
